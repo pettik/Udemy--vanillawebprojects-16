@@ -29,7 +29,7 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 
 ## My solution features
 
-- custom UI/UX design
+- custom CSS/design
 - the rest is same as an original
 
 # Author

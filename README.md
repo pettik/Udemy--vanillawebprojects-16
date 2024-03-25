@@ -32,7 +32,7 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 - custom CSS/design
 - the rest is same as an original
 
-# 16th of 20 Vanilla Javascript project
+# 16th of 20 Vanilla Javascript projects
 
 | ID | Project | URL Link |
 |---|---|---|
